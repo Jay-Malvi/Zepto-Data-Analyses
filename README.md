@@ -83,13 +83,5 @@ To explore, clean, and analyze Zepto's product dataset using **MySQL**, with the
 
 ---
 
-## 📬 Connect with Me
-
-- 📧 Email: your.email@example.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐱 [GitHub](https://github.com/your-username)
-
----
-
 > 💡 *This project is part of my Data Analyst portfolio showcasing practical SQL skills on real-world data.*
 
